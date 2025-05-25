@@ -1,12 +1,12 @@
 {
   "name": "mikeltoolztea",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
   "description": "A Next.js project for mikeltoolztea, registered on TEA Protocol",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikelitooz/mikeltoolztea"
+    "url": "git+https://github.com/mikelitooz/mikeltoolztea.git"
   },
   "keywords": [
     "nextjs",
